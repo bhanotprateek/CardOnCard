@@ -1,0 +1,7 @@
+C:\Personal\Keepplaying\CardOnCardApplication\source\CardOnCard\bin\Debug\CardOnCard.exe.config
+C:\Personal\Keepplaying\CardOnCardApplication\source\CardOnCard\bin\Debug\CardOnCard.exe
+C:\Personal\Keepplaying\CardOnCardApplication\source\CardOnCard\bin\Debug\CardOnCard.pdb
+C:\Personal\Keepplaying\CardOnCardApplication\source\CardOnCard\obj\Debug\CardOnCard.csprojAssemblyReference.cache
+C:\Personal\Keepplaying\CardOnCardApplication\source\CardOnCard\obj\Debug\CardOnCard.csproj.CoreCompileInputs.cache
+C:\Personal\Keepplaying\CardOnCardApplication\source\CardOnCard\obj\Debug\CardOnCard.exe
+C:\Personal\Keepplaying\CardOnCardApplication\source\CardOnCard\obj\Debug\CardOnCard.pdb

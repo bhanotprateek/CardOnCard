@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardOnCard", "CardOnCard\CardOnCard.csproj", "{72B4E70F-7E2B-4AC9-AC9A-3B3AF71FE392}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardOnCard.Test", "CardOnCard.Test\CardOnCard.Test.csproj", "{CD2E5CAB-0458-496B-BB37-7DFC31DD8982}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72B4E70F-7E2B-4AC9-AC9A-3B3AF71FE392}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72B4E70F-7E2B-4AC9-AC9A-3B3AF71FE392}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72B4E70F-7E2B-4AC9-AC9A-3B3AF71FE392}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72B4E70F-7E2B-4AC9-AC9A-3B3AF71FE392}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD2E5CAB-0458-496B-BB37-7DFC31DD8982}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD2E5CAB-0458-496B-BB37-7DFC31DD8982}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD2E5CAB-0458-496B-BB37-7DFC31DD8982}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97D24CF7-EC4A-4671-9265-4EE46FF2B9F3}
+	EndGlobalSection
+EndGlobal

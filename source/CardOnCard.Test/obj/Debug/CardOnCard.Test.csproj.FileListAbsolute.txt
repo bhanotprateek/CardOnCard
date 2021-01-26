@@ -1,0 +1,12 @@
+C:\Personal\Keepplaying\CardOnCardApplication\source\CardOnCard.Test\bin\Debug\CardOnCard.Test.dll
+C:\Personal\Keepplaying\CardOnCardApplication\source\CardOnCard.Test\bin\Debug\CardOnCard.Test.pdb
+C:\Personal\Keepplaying\CardOnCardApplication\source\CardOnCard.Test\bin\Debug\CardOnCard.exe
+C:\Personal\Keepplaying\CardOnCardApplication\source\CardOnCard.Test\bin\Debug\nunit.framework.dll
+C:\Personal\Keepplaying\CardOnCardApplication\source\CardOnCard.Test\bin\Debug\CardOnCard.pdb
+C:\Personal\Keepplaying\CardOnCardApplication\source\CardOnCard.Test\bin\Debug\CardOnCard.exe.config
+C:\Personal\Keepplaying\CardOnCardApplication\source\CardOnCard.Test\bin\Debug\nunit.framework.xml
+C:\Personal\Keepplaying\CardOnCardApplication\source\CardOnCard.Test\obj\Debug\CardOnCard.Test.csprojAssemblyReference.cache
+C:\Personal\Keepplaying\CardOnCardApplication\source\CardOnCard.Test\obj\Debug\CardOnCard.Test.csproj.CoreCompileInputs.cache
+C:\Personal\Keepplaying\CardOnCardApplication\source\CardOnCard.Test\obj\Debug\CardOnCard.Test.csproj.CopyComplete
+C:\Personal\Keepplaying\CardOnCardApplication\source\CardOnCard.Test\obj\Debug\CardOnCard.Test.dll
+C:\Personal\Keepplaying\CardOnCardApplication\source\CardOnCard.Test\obj\Debug\CardOnCard.Test.pdb
